@@ -1,10 +1,16 @@
 # johnny-storm-desktop-pet
 Johnny Storm the Human Torch as a 3D desktop pet.
+Both a [flame-off version](johnny_fairweather.vrm) and a [flame-on version](johnny_flaming.vrm) with three little flames (hhh).
 
 <p align="center">
   <img src="preview_1.png" width="32%" />
   <img src="preview_2.png" width="32%" />
   <img src="preview_3.png" width="32%" />
+</p>
+<p align="center">
+  <img src="preview_4.png" width="32%" />
+  <img src="preview_5.png" width="32%" />
+  <img src="preview_6.png" width="32%" />
 </p>
 
 ## 🚀 How to Use
