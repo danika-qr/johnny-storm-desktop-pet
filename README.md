@@ -1,6 +1,12 @@
 # johnny-storm-desktop-pet
 Johnny Storm the Human Torch as a 3D desktop pet.
 
+<p align="center">
+  <img src="preview_1.png" width="32%" />
+  <img src="preview_2.png" width="32%" />
+  <img src="preview_3.png" width="32%" />
+</p>
+
 ## 🚀 How to Use
 1. Download and install MateEngine.
 2. Download the .vrm file from this repository.
